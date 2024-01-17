@@ -12,9 +12,9 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 Light Mode
 
-![image](https://github.com/Brandonalexiscc/TailwindPractice/assets/90300293/a7134553-9fb4-4899-ad10-11b93611d6d0)
+[image](https://github.com/Brandonalexiscc/TailwindPractice/assets/90300293/a7134553-9fb4-4899-ad10-11b93611d6d0)
 
 
 Dark Mode
 
-![image](https://github.com/Brandonalexiscc/TailwindPractice/assets/90300293/5ba12f16-23e1-46b2-be87-bff6bfe55f5f)
+[image](https://github.com/Brandonalexiscc/TailwindPractice/assets/90300293/5ba12f16-23e1-46b2-be87-bff6bfe55f5f)
