@@ -19,8 +19,8 @@ export default function DarkMode (){
         return (   
           <>
           <Notification> 
-          </Notification>,
-          <Button onClick={handleClick} color='primary' >{text}</Button>
+          </Notification>
+          <Button onClick={handleClick} color='primary'>{text}</Button>
           </>
           
           
